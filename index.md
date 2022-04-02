@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## A noob website by TREZ
 
-You can use the [editor on GitHub](https://github.com/HyZ7846/trez.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a website use for reminisce, display interesting remembrance.
 
 ### Markdown
 
