@@ -21,6 +21,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 ### Email
-#### [2696329259@qq.com](2696329259@qq.com)
-#### [haoyu16@ualberta.ca](haoyu16@ualberta.ca)
-#### [trekyzhang7846@gmail.com](trekyzhang7846@gmail.com)
+[2696329259@qq.com](2696329259@qq.com) \
+[haoyu16@ualberta.ca](haoyu16@ualberta.ca) \
+[trekyzhang7846@gmail.com](trekyzhang7846@gmail.com)
