@@ -1,4 +1,4 @@
-## A noob website by TREZ
+## A noob website by TREZ 一个菜鸟小站
 
 This is a website use for reminisce, display interesting remembrance.
 
