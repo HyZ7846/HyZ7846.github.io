@@ -1,2 +1,2 @@
-# trez.github.io
-a website own by trez
+# TREZ的菜鸟小站
+a noob website own by trez
